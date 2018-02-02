@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "target": "es2015",
+        "lib": [
+            "es2015"
+        ],
+        "newLine": "lf",
+        "outDir": "out\\",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "out",
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
